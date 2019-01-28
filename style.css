@@ -1,0 +1,30 @@
+ p {
+        font-size: 25px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        font-style: oblique;
+    }
+.big-red{
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    color: navy;
+}
+
+#small-red{
+    font-size: 20px;
+    font-family: serif;
+    font-weight: lighter;
+    color: chocolate;
+}
+
+th, td{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+table{
+    border-collapse: collapse;
+    width: 30%;
+}
